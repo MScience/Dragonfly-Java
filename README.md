@@ -11,7 +11,6 @@ Set up a free account today and get 100 free message credits to start testing
 PLEASE GO TO THE RELEASES SECTION TO GET THE LATEST VERSION OF THE WRAPPER
 https://github.com/MScience/Dragonfly-Java/releases
 
-Example to follow
 
 # Contributing
 
